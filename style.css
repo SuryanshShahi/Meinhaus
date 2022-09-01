@@ -22,7 +22,9 @@
     align-items: center;
     z-index: 1;
   }
-  
+  .tagLinetext{
+    text-align: center !important;
+  }
   .arrowTop {
     position: relative;
     width: 77.78px;
